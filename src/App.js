@@ -34,7 +34,7 @@ class App extends Component {
               answerTwo="Emil Lahoud"
               questionThree="In which Lebanese city will you find a large amount of intact Roman ruins?" 
               answerThree="Baalbek"
-              successMessage="Your gift of an ethnic cookbook is coming soon and also a free top golf session is included."
+              successMessage="Your gift of a cultural cookbook is coming soon and also a free top golf session is included."
               /> }
             />
           </div>
