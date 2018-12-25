@@ -57,7 +57,6 @@ const HomepageHeading = ({ mobile }) => (
     {isMobile && (
         <div>
             <br />
-            <br />
         </div>
     )}
 
