@@ -50,7 +50,7 @@ const HomepageHeading = ({ mobile }) => (
 
 
 
-    <Link to="/jacques-present">
+    <Link to="/dads-present">
         <Button primary size='huge'>
         Dad's Trivia
         <Icon name='right arrow' />
