@@ -20,7 +20,7 @@ class App extends Component {
               questionOne="What is the name of the hospital Scrubs is set in ?"
               answerOne="Sacred Heart"
               questionTwo="(Breaking Bad) Fill in the blank: No they're ___, jesus Marie!"
-              answerTwo="Minerals"
+              answerTwo="minerals"
               questionThree="It was once recorded that a Jaguar left skid marks that were 290 m in length. Assuming that the Jaguar skidded to a stop with a constant acceleration of -3.90 m/s2, determine the speed of the Jaguar before it began to skid (in m/s). " 
               answerThree="47.6"
               successMessage="Your gift is an InStockTrades gift card for $50 (to be emailed to you when they review the purchase)"
